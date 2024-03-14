@@ -1,0 +1,1 @@
+In computing, a file system -- sometimes written filesystem -- is a logical and physical system for organizing, managing and accessing the files and directories on a device's solid-state drive (SSD), hard-disk drive (HDD) or other media.
